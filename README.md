@@ -7,8 +7,8 @@
 <br>
 <hr>
 <div>  
-     <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanClaroCode&hide_progress=true&theme=dracula" alt="Jean Claro github stats" /> 
-   <img width="39.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JeanClaroCode&show_icons=true&theme=dracula" />
+     <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanClaroCode&theme=dracula" alt="Jean Claro github stats" /> 
+   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JeanClaroCode&show_icons=true&theme=dracula" />
 </div>
 
 
