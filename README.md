@@ -1,5 +1,9 @@
 ## Olá, sou o Jean Claro!
+
+
 👀 **Estudando para me tornar um desenvolvedor FullStack**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanClaroCode&color=green" alt="Visitantes" /> 
+
 <div>
   <img width="800" src="https://cdn.discordapp.com/attachments/1191939799716732960/1209918873718227044/Chill_Mario_Pixel_Jeff.gif?ex=65e8abc2&is=65d636c2&hm=d1889dc67a465bf2524d8d4e9cd7358bd0567676fb58d5c2a73ea0bda110dc5a&">
 </div>
