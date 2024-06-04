@@ -11,7 +11,7 @@
 <br>
 <hr>
 <div>  
-    <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanClaroCode&langs_count=6&theme=dracula" alt="Jean Claro github stats" /> 
+    <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanClaroCode&size_weight=0.5&count_weight=0.5&theme=dracula" alt="Jean Claro github stats" /> 
    <img width="66%" src="https://github-readme-stats.vercel.app/api?username=JeanClaroCode&show_icons=true&theme=dracula" />
 </div>
 
