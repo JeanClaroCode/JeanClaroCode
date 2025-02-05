@@ -27,7 +27,8 @@
     <img style="width: 51%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=JeanClaroCode&show_icons=true&theme=dracula" />
 </div>
  -->
-## Contato
+ 
+# Contato
 <div>
     <a href="mailto:jeanclarodev@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
