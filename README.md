@@ -1,12 +1,8 @@
 ## Olá, sou o Jean Claro!
 
-
-# **Desenvolvedor FullStack**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanClaroCode&color=green" alt="Visitantes" /> 
+# **Desenvolvedor FullStack** ![Visitantes](https://komarev.com/ghpvc/?username=JeanClaroCode&color=green)
 
 
-  
-# **Tecnologias**
 <table border="none">
   <tr>
     <td>
